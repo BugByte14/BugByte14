@@ -4,6 +4,7 @@
 
 ### `$ cat /home/william/certifications`
 <!--START_SECTION:badges-->
+[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/b97fc805-64f5-4915-84ba-82480914bce0 "Google Data Analytics Professional Certificate")
 <!--END_SECTION:badges-->
 
 <!--
