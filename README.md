@@ -1,4 +1,4 @@
-<p align="right">&#95; &nbsp; &square; &nbsp; &times;</p><hr>
+<p align="right">&#95; &nbsp; &square; &nbsp; &times;</p>
 
 ### `$ echo $WELCOME`
 
