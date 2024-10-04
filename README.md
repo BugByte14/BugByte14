@@ -1,4 +1,10 @@
-## Hi there 👋
+### `$ echo $WELCOME`
+
+#### Hello World! 👋
+
+### `$ cat /home/william/certifications`
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **BugByte14/BugByte14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
