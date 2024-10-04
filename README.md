@@ -24,6 +24,7 @@ drwxr--r-- william <img alt="GitHub repo size" src="https://img.shields.io/githu
 
 ### `$ curl -X GET tech_stack`
 
+<img alt="Static Badge" src="https://img.shields.io/badge/Bash-gnubash?logo=gnubash&logoColor=white&color=%234EAA25"><img alt="Static Badge" src="https://img.shields.io/badge/C-C?logo=C&logoColor=white&color=%23A8B9CC"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-cplusplus?logo=cplusplus&logoColor=white&color=%2300599C"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-css3?logo=css3&logoColor=white&color=%231572B6"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-html5?logo=html5&logoColor=white&color=%23E34F26"><img alt="Static Badge" src="https://img.shields.io/badge/Java-oracle?logo=oracle&logoColor=white&color=%23F80000"><img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-javascript?logo=javascript&logoColor=white&color=%23F7DF1E"><img alt="Static Badge" src="https://img.shields.io/badge/Python-python?logo=python&logoColor=white&color=%233776AB"><img alt="Static Badge" src="https://img.shields.io/badge/Ruby-ruby?logo=ruby&logoColor=white&color=%23CC342D">
 
 
 <!--
