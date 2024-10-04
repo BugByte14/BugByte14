@@ -1,3 +1,5 @@
+<p align="right">&#95; &nbsp; &square; &nbsp; &times;</p><hr>
+
 ### `$ echo $WELCOME`
 
 #### Hello World! 👋
