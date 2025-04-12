@@ -6,7 +6,7 @@
 
 ### `$ whoami`
 
-#### I am William Richards. A tech enthusiast with a master's in computer science 🖥️. Currently, I am working as a Systems Analytics Shift Lead at UMRF Ventures with a focus on process automation and resource optimization.
+#### I am William Richards. A tech enthusiast with a master's in computer science 🖥️. Currently, I am working as a Technical Supervisor at UMRF Ventures with a focus on process automation and resource optimization.
 
 ### `$ ls -l projects`
 
