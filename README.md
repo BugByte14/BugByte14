@@ -20,6 +20,7 @@ drwxr--r-- william <img alt="GitHub repo size" src="https://img.shields.io/githu
 
 ### `$ ping -c 1 certifications`
 <!--START_SECTION:badges-->
+[![CompTIA A+ Certification](https://images.credly.com/size/110x110/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob)](https://www.credly.com/badges/d73724f5-4a21-4ef4-946e-5345c3fe3af2 "CompTIA A+ Certification")
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/b97fc805-64f5-4915-84ba-82480914bce0 "Google Data Analytics Professional Certificate")
 
 <!--END_SECTION:badges-->
